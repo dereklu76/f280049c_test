@@ -4,5 +4,9 @@ is01_intro_hal_eabi/RAM_Lib/ccs/Debug/
 is01_intro_hal_eabi/Flash_Lib/ccs/Debug/
 is02_offset_gain_cal_coff/RAM_Lib/ccs/Debug/
 is02_offset_gain_cal_coff/Flash_Lib/ccs/Debug/
+is02_offset_gain_cal_eabi/RAM_Lib/ccs/Debug/
+is02_offset_gain_cal_eabi/Flash_Lib/ccs/Debug/
+
+
 
 
