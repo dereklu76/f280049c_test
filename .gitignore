@@ -24,5 +24,7 @@ is06_torque_control_eabi/RAM_Lib/ccs/Debug/
 is06_torque_control_eabi/Flash_Lib/ccs/Debug/
 is07_speed_control_coff/RAM_Lib/ccs/Debug/
 is07_speed_control_coff/Flash_Lib/ccs/Debug/
+is07_speed_control_eabi/RAM_Lib/ccs/Debug/
+is07_speed_control_eabi/Flash_Lib/ccs/Debug/
 
 
