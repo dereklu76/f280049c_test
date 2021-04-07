@@ -20,6 +20,7 @@ is05_motor_id_eabi/RAM_Lib/ccs/Debug/
 is05_motor_id_eabi/Flash_Lib/ccs/Debug/
 is06_torque_control_coff/RAM_Lib/ccs/Debug/
 is06_torque_control_coff/Flash_Lib/ccs/Debug/
-
+is06_torque_control_eabi/RAM_Lib/ccs/Debug/
+is06_torque_control_eabi/Flash_Lib/ccs/Debug/
 
 
