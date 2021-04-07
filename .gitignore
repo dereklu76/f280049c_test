@@ -26,5 +26,7 @@ is07_speed_control_coff/RAM_Lib/ccs/Debug/
 is07_speed_control_coff/Flash_Lib/ccs/Debug/
 is07_speed_control_eabi/RAM_Lib/ccs/Debug/
 is07_speed_control_eabi/Flash_Lib/ccs/Debug/
+is08_overmodulation_coff/RAM_Lib/ccs/Debug/
+is08_overmodulation_coff/Flash_Lib/ccs/Debug/
 
 
