@@ -42,6 +42,8 @@ is11_dual_motor_coff/RAM_Lib/ccs/Debug/
 is11_dual_motor_coff/Flash_Lib/ccs/Debug/
 is11_dual_motor_eabi/RAM_Lib/ccs/Debug/
 is11_dual_motor_eabi/Flash_Lib/ccs/Debug/
+is12_variable_pwm_frequency_coff/RAM_Lib/ccs/Debug/
+is12_variable_pwm_frequency_coff/Flash_Lib/ccs/Debug/
 
 
 
